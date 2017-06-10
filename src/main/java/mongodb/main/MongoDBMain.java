@@ -12,7 +12,7 @@ public class MongoDBMain {
 	 
     private static final String DB_NAME = "foldertest";
     private static final String COLLECTION = "foldertestonly";
-    private static final String MONGO_HOST = "210.121.158.170";
+    private static final String MONGO_HOST = "210.121.158.166";
     private static final int MONGO_PORT = 27018;
     private static MongoClient mongo;
     private static ApplicationContext ctx = null;
